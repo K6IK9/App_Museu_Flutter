@@ -1,16 +1,19 @@
-# app_museum
+# App Museu Flutter
 
-A new Flutter project.
+Este aplicativo Flutter tem como objetivo facilitar a experiência em museus, permitindo a leitura de QR Codes presentes nos artefatos. Ao escanear um QR Code, o app exibe informações detalhadas sobre o item, como descrição, origem, período histórico e imagens.
 
-## Getting Started
+## Funcionalidades
 
-This project is a starting point for a Flutter application.
+Em construção
+## Como usar
 
-A few resources to get you started if this is your first Flutter project:
+Em construção
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Tecnologias
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Flutter
+- Biblioteca de leitura de QR Code
+
+---
+
+### Sistema segue em desenvolvimento
